@@ -1,0 +1,9 @@
+author = TheSeunger
+version = 0.1
+displayName = Oblivion Mod
+homepage = 
+hideCode = false
+hideResources = false
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

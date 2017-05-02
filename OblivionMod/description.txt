@@ -1,0 +1,9 @@
+The Oblivion Mod adds content for Pre-Hardmode, Hardmode and Post-Moon Lord.
+
+TheSeunger:
+- Founder
+- Main Spriter
+
+Jeonsaryu:
+- Co-Founder
+- Main Programmer
